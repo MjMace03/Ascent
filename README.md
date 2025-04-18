@@ -11,7 +11,6 @@ HOMEPAGE:
 
 ![Screenshot 2025-04-18 172329](https://github.com/user-attachments/assets/1ede007b-b7b8-423d-b195-7ca41a511d28)
 
-
 NEWS:
 ![Screenshot 2025-04-18 172737](https://github.com/user-attachments/assets/3fe75589-aa16-4711-8fea-9a2588dad561)
 
