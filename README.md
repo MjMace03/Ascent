@@ -12,12 +12,15 @@ HOMEPAGE:
 ![Screenshot 2025-04-18 172329](https://github.com/user-attachments/assets/1ede007b-b7b8-423d-b195-7ca41a511d28)
 
 NEWS:
+
 ![Screenshot 2025-04-18 172737](https://github.com/user-attachments/assets/3fe75589-aa16-4711-8fea-9a2588dad561)
 
 CHARACTERS:
+
 ![Screenshot 2025-04-18 180526](https://github.com/user-attachments/assets/a148c44c-ce84-4ef6-b915-900d65cd455a)
 
 GUIDE:
+
 ![Screenshot 2025-04-18 172500](https://github.com/user-attachments/assets/0e2ed415-786d-4564-a282-6972b18964f5)
 
 ![Screenshot 2025-04-18 172716](https://github.com/user-attachments/assets/6cfe4b92-6b4e-4d04-8f63-52da2dc26f8a)
@@ -27,6 +30,7 @@ GUIDE:
 ![Screenshot 2025-04-18 172813](https://github.com/user-attachments/assets/d49fb8dd-a15b-49e1-8935-0511fc49376d)
 
 EXPLORE:
+
 ![Screenshot 2025-04-18 172641](https://github.com/user-attachments/assets/863e0c2a-02d5-4107-ab36-d967f9f999ca)
 
 ![Screenshot 2025-04-18 172853](https://github.com/user-attachments/assets/c9f855ab-0047-4d26-9955-3e89a4c39218)
